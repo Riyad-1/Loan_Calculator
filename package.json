@@ -1,0 +1,16 @@
+{
+  "name": "Loan_Calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Riyad-1.github.io/Loan_Calculator",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
